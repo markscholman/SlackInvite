@@ -1,0 +1,45 @@
+﻿html,
+body {
+  background-color: #eee;
+}
+body {
+  font-family: 'Lato', sans-serif;
+  padding: 15px;
+}
+.h1 {
+  color: #443642;
+  font-size: 5rem;
+  margin-top: 5rem;
+  font-weight: bold;
+}
+.slack-logo {
+  display: inline-block;
+  margin: 0;
+  margin-bottom: -1rem;
+}
+.slack-icon {
+  width: 7rem;
+  height: 7rem;
+  margin-top: -0.3rem;
+  margin-right: -1rem;
+  margin-left: -0.75rem;
+}
+.subtitle {
+  color: #443642;
+  font-size: 1.75rem;
+  margin-top: 1rem;
+}
+#form-email,
+.confirm {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+#form-email input,
+.confirm input {
+  font-size: 1.5rem;
+}
+.confirm {
+  font-size: 2rem;
+  display: none;
+}
+/*# sourceMappingURL=Main.css.map */
